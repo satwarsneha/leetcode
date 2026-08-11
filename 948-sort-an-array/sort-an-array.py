@@ -27,5 +27,3 @@ class Solution:
         result.extend(right[j:])
 
         return result
-        
-        
